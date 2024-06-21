@@ -1,0 +1,23 @@
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+#word {
+  margin: 20px 0;
+  font-size: 24px;
+}
+
+#letters {
+  margin: 20px 0;
+}
+
+#hangman {
+  margin: 20px 0;
+  font-size: 36px;
+}
+
+#status {
+  margin: 20px 0;
+}
